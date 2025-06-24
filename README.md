@@ -1,7 +1,7 @@
 
 # Exploring-the-State-of-Water-Pollution-in-Canada
 
-![Dashboard Preview](https://github.com/Eedrizgit/Healthcare-Analysis-for-the-Period-2019-2024/blob/main/task%204%20dashboard%20(2).png)
+![Dashboard Preview](https://github.com/Eedrizgit/Exploring-the-State-of-Water-Pollution-in-Canada/blob/main/tassk%2034A%20DASHBOARD.png)
 
 # **CANADA WATER POLLUTION**
 
